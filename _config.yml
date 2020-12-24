@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: aleXiehta
+title: Supratip
 
 # Your name to show in the footer
-author: Alex Hsieh
+author: Supratip
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Freelance programmer"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
